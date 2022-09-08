@@ -24,5 +24,6 @@
   </div>
   
   //teste altaração
+<script src="./main.js"></script>
   
 
